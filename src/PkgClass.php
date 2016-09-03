@@ -23,4 +23,18 @@ class PkgClass
     {
         return $phrase;
     }
+
+    /**
+     * simple addition
+     * 
+     * @param  integer $first_number  first number
+     * @param  integer $second_number second number
+     * @return integer returns the result of the two number
+     */
+    public function add($first_number=0, $second_number=0)
+    {
+        return $first_number+second_number;
+    }
+
+    
 }
