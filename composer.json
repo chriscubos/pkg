@@ -9,5 +9,6 @@
             "email": "chris@philippineglobaloutsourcing.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
