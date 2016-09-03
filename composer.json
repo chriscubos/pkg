@@ -9,5 +9,11 @@
             "email": "chris@philippineglobaloutsourcing.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "library",
+            "url": "https://github.com/chriscubos/pkg.git"
+        },
+    ],
     "require": {}
 }
