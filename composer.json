@@ -13,7 +13,7 @@
         {
             "type": "library",
             "url": "https://github.com/chriscubos/pkg.git"
-        },
+        }
     ],
     "require": {}
 }
