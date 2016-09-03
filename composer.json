@@ -11,7 +11,7 @@
     ],
     "repositories": [
         {
-            "type": "library",
+            "type": "vcs",
             "url": "https://github.com/chriscubos/pkg.git"
         }
     ],
