@@ -1,0 +1,13 @@
+{
+    "name": "chriscubos/pkg",
+    "description": "Clean Package for Laravel PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher John Cubos",
+            "email": "chris@philippineglobaloutsourcing.com"
+        }
+    ],
+    "require": {}
+}
